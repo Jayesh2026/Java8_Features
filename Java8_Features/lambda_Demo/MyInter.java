@@ -1,4 +1,4 @@
-package Lambda_Demo;
+package lambda_Demo;
 
 @FunctionalInterface
 public interface MyInter {
